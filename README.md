@@ -1,3 +1,4 @@
+myfeaturebranch
 branch1
 usage: git [--version] [--help] [-C <path>] [-c name=value]
            [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
@@ -87,3 +88,7 @@ to read about a specific subcommand or concept.
 # GPT-model
 Committing a change in myfeaturebranch.
 myfeaturebranch
+
+Source code for CHAT GPT model.<br></br>
+Changes shown per code... 
+master
