@@ -1,5 +1,7 @@
- siddhantjral-patch-1
 # Apply the API Key
+from ossaudiodev import openmixer
+
+
 openai.api_key = "YOUR_API_KEY"
 
 # Generate a response using OpenAI GPT-3
@@ -44,9 +46,3 @@ output_field.pack(pady=10)
 
 # Start the GUI event loop
 root.mainloop()
-
-#hi
-#hellothere
-#changes to check the new branch
-#attempt 2
-master
