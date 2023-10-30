@@ -1,4 +1,8 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+branch1
+>>>>>>> c189d26f31d9c71fc62f5a705c858b4aa14342bd
 usage: git [--version] [--help] [-C <path>] [-c name=value]
            [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
            [-p | --paginate | --no-pager] [--no-replace-objects] [--bare]
@@ -83,7 +87,14 @@ collaborate (see also: git help workflows)
 'git help -a' and 'git help -g' list available subcommands and some
 concept guides. See 'git help <command>' or 'git help <concept>'
 to read about a specific subcommand or concept.
+<<<<<<< HEAD
 =======
 Source code for CHAT GPT model.<br></br>
 Changes shown per code... 
 >>>>>>> origin/master
+=======
+
+# GPT-model
+Committing a change in myfeaturebranch.
+myfeaturebranch
+>>>>>>> c189d26f31d9c71fc62f5a705c858b4aa14342bd
